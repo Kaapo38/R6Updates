@@ -26,7 +26,7 @@ the Service is free of viruses or other harmful components;
 ### D)
 the results of using the Service will meet your requirements.
 ## Privacy Policy
-Your privacy is important to us, our Privacy Policy can be found [here](https://github.com/Kaapo38/R6Updates/blob/main/terms-of-service.md) and is hereby incorporated into these by reference. Please read our privacy policy carefully for information relating to our collection, use, and disclosure of your personal information.
+Your privacy is important to us, our Privacy Policy can be found [here](https://github.com/Kaapo38/R6Updates/blob/main/privacy-policy.md) and is hereby incorporated into these by reference. Please read our privacy policy carefully for information relating to our collection, use, and disclosure of your personal information.
 ## Changes
 R6Updates reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 By continuing to use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
