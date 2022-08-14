@@ -30,5 +30,7 @@ Your privacy is important to us, our Privacy Policy can be found [here](https://
 ## Changes
 R6Updates reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.
 By continuing to use our Service after any revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, you are no longer authorized to use the Service.
+## Discord Terms of Service
+Agreeing to these Terms and, or using the Service you agree also to the [Discord's Terms of Service](https://discord.com/terms).
 ## Contact R6Updates
 [Join the Discord server](https://discord.gg/jpHSJsm)
