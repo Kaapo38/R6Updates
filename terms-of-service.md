@@ -34,3 +34,5 @@ By continuing to use our Service after any revisions become effective, you agree
 Agreeing to these Terms and, or using the Service you agree also to the [Discord's Terms of Service](https://discord.com/terms).
 ## Contact R6Updates
 [Join the Discord server](https://discord.gg/jpHSJsm)
+## R6Updates' Privacy Policy
+[Read R6Updates' Privacy Policy](/privacy-policy.md)
