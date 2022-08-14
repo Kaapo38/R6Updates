@@ -24,3 +24,5 @@ Everything that concerns our Service is bounded by the Discord's Developer Polic
 Agreeing to this Privacy Policy and, or using the Service you agree also to the [Discord's Privacy Policy](https://discord.com/privacy).
 ## Contact R6Updates
 [Join the Discord server](https://discord.gg/jpHSJsm)
+## R6Updates' Terms Of Service
+[Read R6Updates' Terms Of Service](/terms-of-service.md)
